@@ -8,6 +8,8 @@ After checking all points, you'll count how many of them agree with the equation
 
 It's pretty cool to implement and to see the generated charts.
 
+![PI Chart](./results/PI.png)
+
 Increase the values of the variables
 ```js
 const chartWidth = 1000;
